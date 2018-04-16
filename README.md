@@ -25,14 +25,8 @@ To make the script accessible form anywhere, go into your cloned directory and r
 
 Depending on your settings, use `~/.bashrc` or `~/.bash_profile`. (**on MacOS**, choose `~/.bashrc`).
 
-Run
-```
-source ~/.bashrc
-```
-To make the script accessible.
 
-
-### Alternative way of install (linux specific)
+#### Alternative way of install (linux specific)
 
 ```
 sudo cp -R /path/to/cloned/jisc /opt/
